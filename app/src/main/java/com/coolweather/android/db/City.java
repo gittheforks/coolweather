@@ -21,7 +21,7 @@ public class City extends DataSupport {
     public String getCityName(){
         return cityName;
     }
-    public void setId(String cityName){
+    public void setCityName(String cityName){
         this.cityName=cityName;
     }
     public int getCityCode(){
